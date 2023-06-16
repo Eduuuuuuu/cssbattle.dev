@@ -1,16 +1,8 @@
-<div class=circulo1></div>
-<div class=circulo2></div>
-<div class=circulo3></div>
-<div class=circulo4></div>
-<div class=meioCirculo1></div>
-<div class=meioCirculo2></div>
-<div class=meioCirculo3></div>
-<div class=meioCirculo4></div>
-<style>
+
   *{
     margin:0;
     padding:0;
-  }
+   }
 body{
     background-color:#1A4341;
   }
@@ -38,43 +30,43 @@ body{
     border-radius:50%;
     background: #998235;
   }
-  ..meioCirculo2 {
+  .meioCirculo2 {
     width: 50px;
     height: 50px;
-    margin-left:550px;
+    margin-left:570px;
     margin-top: -120px;
     border-radius: 150px 150px 0 0;
     background: #F3AC3C;
   }
-  ..circulo3 {
+  .circulo3 {
     width: 50px;
     height: 50px;
-    margin-left:600px;
+    margin-left:640px;
     margin-top: -50px;
     border-radius:50%;
     background: #F3AC3C;
   }
-  ..meioCirculo3 {
+  .meioCirculo3 {
     width: 50px;
     height: 50px;
-    margin-left:600px;
+    margin-left:640px;
     margin-top: -50px;
     border-radius: 150px 150px 0 0;
     background: #998235;
   }
-  ..circulo4 {
+  .circulo4 {
     width: 50px;
     height: 50px;
-    margin-left:700px;
+    margin-left:710px;
     margin-top: -120px;
     border-radius:50%;
     background: #F3AC3C;
   }
-  ..meioCirculo4 {
+  .meioCirculo4 {
     width: 50px;
     height: 50px;
-    margin-left:700px;
-    margin-top: 20px;
+    margin-left:710px;
+    margin-top:20px;
     border-radius: 0 0 150px 150px;
     background: #998235;
   }
